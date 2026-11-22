@@ -12,6 +12,8 @@
 
 > **Disclaimer:** This prototype is a conceptual research and design artifact, not a certified medical device or standalone therapeutic treatment.
 
+<img width="919" height="517" alt="Screenshot 2026-11-22 170812" src="https://github.com/user-attachments/assets/351a3ad6-d2c0-4ab0-b164-24e99cbbfd65" />
+
 ### Clinical & Theoretical Design Rationale
 Rather than relying on sensationalized depictions of psychosis, the prototype translates established psychiatric and psychotherapeutic concepts into tangible spatial mechanics:
 
@@ -26,12 +28,16 @@ Rather than relying on sensationalized depictions of psychosis, the prototype tr
 - **Interactive Grounding Anchors:** Breathing mode with visual breathing synchronization.
 - **Instant Safe-Reset & Presets:** Create personal comfort configurations or revert to a neutral baseline (UI button).
 
+<img width="922" height="514" alt="Screenshot 2026-11-22 170951" src="https://github.com/user-attachments/assets/ee130151-ce18-447f-a498-084028a4c080" />
+
 ### Tech Stack & Controls
 * **Engine:** [Unity 6.6 (URP)]
 * **Language:** [C#]
 * **Controls:**
   * `WASD` / `Right Click`: Smooth camera navigation & look
   * `Left Click`: Interact with grounding anchors / UI
+
+<img width="917" height="514" alt="Screenshot 2026-11-22 171004" src="https://github.com/user-attachments/assets/264eb31e-ecb1-42e9-8576-f0d53a0ceeaa" />
 
 ### Author
 **Elisabeth Andriouchtchenko**  
@@ -48,6 +54,8 @@ Der **Safespacify** ist ein interaktiver 3D-Prototyp an der Schnittstelle von **
 
 > **Hinweis:** Bei diesem Prototypen handelt es sich um ein konzeptionelles Forschungs- und Design-Artefakt, nicht um ein zertifiziertes Medizinprodukt oder eine eigenständige Therapieanwendung.
 
+<img width="919" height="517" alt="Screenshot 2026-11-22 170812" src="https://github.com/user-attachments/assets/351a3ad6-d2c0-4ab0-b164-24e99cbbfd65" />
+
 ### Psychiatrische & Konzeptuelle Design Rationale
 Anstatt auf reißerische Darstellungen von Psychosen zurückzugreifen, übersetzt der Prototyp etablierte psychiatrische und psychotherapeutische Konzepte in steuerbare Raummechaniken:
 
@@ -62,12 +70,16 @@ Anstatt auf reißerische Darstellungen von Psychosen zurückzugreifen, übersetz
 - **Interaktive Grounding-Anker:** Atem-Modus mit visueller Atemsynchronisation.
 - **Safe-Reset & Presets:** Erstellung eigener Wohlfühl-Konfigurationen oder sofortige Rückkehr zum reizarmen Ausgangszustand (UI-Button).
 
+<img width="922" height="514" alt="Screenshot 2026-11-22 170951" src="https://github.com/user-attachments/assets/ee130151-ce18-447f-a498-084028a4c080" />
+
 ### Tech-Stack & Steuerung
 * **Engine:** [Unity 6.6 (URP)]
 * **Programmiersprache:** [C#]
 * **Steuerung:**
   * `WASD` / `Rechtsklick`: Sanfte Kamera-Navigation & Blickrichtung
   * `Linksklick`: Interaktion mit Grounding-Ankern / UI
+
+<img width="917" height="514" alt="Screenshot 2026-11-22 171004" src="https://github.com/user-attachments/assets/264eb31e-ecb1-42e9-8576-f0d53a0ceeaa" />
 
 ### Autor
 **Elisabeth Andriouchtchenko**  
